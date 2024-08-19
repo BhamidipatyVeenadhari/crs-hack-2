@@ -1,5 +1,5 @@
-Crop Recommendation System:
-The Crop Recommendation System is a dynamic Java application designed to help farmers and agricultural enthusiasts choose the best crops based on soil type and moisture levels. By leveraging pre-defined datasets, the application suggests the most suitable crops for various combinations of soil conditions and moisture percentages. The goal of this tool is to support decision-making in agriculture, ultimately contributing to better productivity and sustainability.
+Crop and Soil Management System:
+The Crop and Soil Management System is a dynamic Java application designed to help farmers and agricultural enthusiasts choose the best crops based on soil type and moisture levels. By leveraging pre-defined datasets, the application suggests the most suitable crops for various combinations of soil conditions and moisture percentages. The goal of this tool is to support decision-making in agriculture, ultimately contributing to better productivity and sustainability.
 
 Key Features:
 Dynamic Input: The user provides soil type and moisture level as inputs.
